@@ -1,7 +1,7 @@
 # aprediendo-java
 Este repositorio contiene ejercicios, ejemplos y apuntes que estoy haciendo mientras aprendo Java desde cero. Forma parte de mi formación en DAM, y mi objetivo es dominar Java para aplicarlo en desarrollo backend y proyectos reales.
 
-## 📚 Temas incluidos
+## Temas incluidos
 
 - Introducción y sintaxis básica
 - Programación orientada a objetos (POO)
@@ -12,7 +12,7 @@ Este repositorio contiene ejercicios, ejemplos y apuntes que estoy haciendo mien
 - Springboot
 - Y más...
 
-## 🔧 Tecnologías
+## Tecnologías
 
 - Java 23
 - Netbeans
