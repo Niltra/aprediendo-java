@@ -1,6 +1,6 @@
 # 🎮 Juego Educativo en Java (archivo ejecutable)
 
-Este proyecto fue desarrollado como trabajo final del grado DAM. Es una aplicación de escritorio en Java con interfaz gráfica (Swing), que incluye varios minijuegos educativos.
+Este proyecto fue desarrollado como trabajo final del grado DAM de primer Anio. Es una aplicación de escritorio en Java con interfaz gráfica (Swing), que incluye varios minijuegos educativos.
 
 ## 🔐 Acceso
 
