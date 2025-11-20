@@ -1,4 +1,4 @@
-# aprediendo-java
+# Java
 Este repositorio contiene ejercicios, ejemplos y apuntes que estoy haciendo mientras aprendo Java desde cero. Forma parte de mi formación en DAM, y mi objetivo es dominar Java para aplicarlo en desarrollo backend y proyectos reales.
 
 ## Temas incluidos
